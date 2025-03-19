@@ -1,0 +1,114 @@
+.fondo1{
+    height: 100vw;
+    width: 100vw;
+    background-color: black;
+}
+.foto {
+    width: 200px;
+    height: 190px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid cornsilk;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.foto img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.fondo{
+    height: 230px;
+    width: 100vw;
+    background-color: cornsilk;
+    position:absolute;
+    top: 0px;
+}
+.fondo h1{
+    font-family: cursive;
+    font-size: 80px;
+    color: black;
+    text-align: center;
+    text-decoration-color: black;
+}
+.perfil {
+    width: 500px;
+    height: 350px;
+    background-color: cornsilk;
+    position: absolute;
+    top: 270px;
+    right: 200px;
+    border-radius: 10%;
+    font-family: cursive;
+    font-size: 20px;
+}
+.perfil h1{
+    text-align: center;
+}
+.perfil p{
+    text-align: center;
+}
+.informacion {
+    width: 500px;
+    height: 350px;
+    background-color: cornsilk;
+    position: absolute;
+    top: 270px;
+    left: 100px;
+    border-radius: 10%;
+    font-family: cursive;
+}
+.redes {
+    width: 500px;
+    height: 350px;
+    background-color: cornsilk;
+    position: absolute;
+    top: 700px;
+    left: 100px;
+    border-radius: 10%;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+}
+.estudios {
+    width: 500px;
+    height: 350px;
+    background-color: cornsilk;
+    position: absolute;
+    top: 700px;
+    right: 200px;
+    border-radius: 10%;
+    font-family: cursive;
+    font-size: 20px;
+}
+.estudios img{
+    width: 30%;
+    height: auto;
+    position: relative;
+    left: 170px;
+    border-radius: 50%;
+}
+.stacks {
+    width: 500px;
+    height: 350px;
+    background-color: cornsilk;
+    position: absolute;
+    top: 1100px;
+    right: 200px;
+    border-radius: 10%;
+    font-family: cursive;
+    font-size: 20px;
+}
+.ingles{
+    width: 500px;
+    height: 350px;
+    background-color: cornsilk;
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+    border-radius: 10%;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+}
