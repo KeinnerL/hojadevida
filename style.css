@@ -112,3 +112,17 @@
     text-align: center;
     text-decoration: none;
 }
+.redes img{
+    width: 10%;
+    height: auto;
+    position: relative;
+    left: 8px;
+    border-radius: 50%;
+}
+.stacks img{
+    width: 20%;
+    height: auto;
+    position: relative;
+    left: 150px;
+    border-radius: 50%;
+}
