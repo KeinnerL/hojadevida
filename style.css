@@ -43,6 +43,17 @@
     font-family: cursive;
     font-size: 20px;
 }
+.perfil:hover {
+    width: 500px;
+    height: 350px;
+    background-color: pink;
+    position: absolute;
+    top: 270px;
+    right: 200px;
+    border-radius: 10%;
+    font-family: cursive;
+    font-size: 20px;
+}
 .perfil h1{
     text-align: center;
 }
@@ -53,6 +64,16 @@
     width: 500px;
     height: 350px;
     background-color: cornsilk;
+    position: absolute;
+    top: 270px;
+    left: 100px;
+    border-radius: 10%;
+    font-family: cursive;
+}
+.informacion:hover {
+    width: 500px;
+    height: 350px;
+    background-color:pink;
     position: absolute;
     top: 270px;
     left: 100px;
@@ -71,10 +92,33 @@
     text-align: center;
     text-decoration: none;
 }
+.redes:hover{
+    width: 500px;
+    height: 350px;
+    background-color: pink;
+    position: absolute;
+    top: 700px;
+    left: 100px;
+    border-radius: 10%;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+}
 .estudios {
     width: 500px;
     height: 350px;
     background-color: cornsilk;
+    position: absolute;
+    top: 700px;
+    right: 200px;
+    border-radius: 10%;
+    font-family: cursive;
+    font-size: 20px;
+}
+.estudios:hover{
+    width: 500px;
+    height: 350px;
+    background-color: pink;
     position: absolute;
     top: 700px;
     right: 200px;
@@ -100,10 +144,33 @@
     font-family: cursive;
     font-size: 20px;
 }
+.stacks:hover {
+    width: 500px;
+    height: 350px;
+    background-color:pink;
+    position: absolute;
+    top: 1100px;
+    right: 200px;
+    border-radius: 10%;
+    font-family: cursive;
+    font-size: 20px;
+}
 .ingles{
     width: 500px;
     height: 350px;
     background-color: cornsilk;
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+    border-radius: 10%;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+}
+.ingles:hover{
+    width: 500px;
+    height: 350px;
+    background-color:pink;
     position: absolute;
     top: 1100px;
     left: 100px;
